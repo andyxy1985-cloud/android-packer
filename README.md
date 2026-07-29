@@ -16,3 +16,16 @@ android-packer 是一个面向应用市场上架的 Android APK 加固与资源�
 # 联系方式
 ## telegram
 [@apk_gongfang]([https://www.baidu.com](https://t.me/apk_gongfang) "APK工坊")
+
+# 管理后台
+## 加固操作界面
+![加固](./images/jiagu01.png)
+
+## 多渠道打包界面
+![加固](./images/jiagu02.png)
+
+## APK签名
+![加固](./images/jiagu03.png)
+
+## 签名信息查看
+![加固](./images/jiagu04.png)
